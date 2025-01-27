@@ -7,3 +7,10 @@ This is a simple web application for converting currencies using the Open Exchan
 - Fetches all available currencies from the Open Exchange Rates API.
 - Allows users to input a date, source currency, target currency, and an amount to convert.
 - Displays the converted amount based on historical exchange rates.
+
+- ## Technologies Used
+
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **API**: [Open Exchange Rates API](https://openexchangerates.org/)
+
